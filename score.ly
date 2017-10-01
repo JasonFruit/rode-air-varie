@@ -24,7 +24,7 @@
   arranger = \markup {
     \override #'(font-name . "Cormorant Garamond")
     \override #'(font-size . 2)
-    "Arranged by Jason R. Fruit."
+    "Arr. Hermann Ritter, rev. Jason R. Fruit."
   }
   tagline = ##f
 }
@@ -323,6 +323,4 @@
       }
     >>
   >>
-  \midi {}
-
 }
